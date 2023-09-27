@@ -1,1 +1,8 @@
-# MVC - 31.05.2023
+Credentials for App testing
+
+
+lgn: Uzivatel1
+pw: Heslo-1234
+
+lgn: TestAdmin
+pw: Heslo-1234
